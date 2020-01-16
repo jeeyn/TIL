@@ -1,0 +1,7 @@
+일반적인 url 형식
+프로토콜://서버주소:포트번호/폴더명/파일명/쿼리
+
+쓰기 Create     POST
+읽기 Read       GET
+수정 Update     UPDATE
+삭제 Delete     DEL
