@@ -18,6 +18,7 @@ function Clazz(msg) {
         console.log(message2);
     };
 }
+
 // 객체를	생성
 var	myClazz	= new Clazz('good to see u!');
 console.log(myClazz.message);
