@@ -1,0 +1,14 @@
+1. 클라이언트-서버 환경
+클라이언트/서버
+http(s)
+자바스크립트
+비동기처리방식
+xml/json
+node.js
+
+2. Node.js 환경설정
+* Node.js 설치 (https://nodejs.org/en/ - LTS 선택) : 명령 프롬프트 상에서 명령어 실행 :
+node -v
+npm -v
+
+* 
