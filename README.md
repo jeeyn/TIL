@@ -1,2 +1,2 @@
-# TIL :pencil2:
-Today I Learned
+# TIL
+Today I Learned :pencil2:
