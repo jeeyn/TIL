@@ -1,2 +1,2 @@
 # TIL
-Today I Learned :pencil2:
+Today I Learned 📝
